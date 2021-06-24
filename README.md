@@ -27,7 +27,7 @@ CREATE TABLE 'us_names' (
   UNIQUE KEY 'firstname_UNIQUE' ('firstname')
 ) ENGINE=InnoDB AUTO_INCREMENT=151719 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 ```
-Once the mysql is installed and ready to go, please change the application.properties accordingly
+Once the mysql is installed and ready to go, please change the `src/main/resources/application.properties` accordingly
 
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/data
