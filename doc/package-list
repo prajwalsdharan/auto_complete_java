@@ -1,0 +1,8 @@
+com.powerschool.assignment
+com.powerschool.assignment.constants
+com.powerschool.assignment.entities
+com.powerschool.assignment.repositories
+com.powerschool.assignment.rest.census
+com.powerschool.assignment.services
+com.powerschool.assignment.utils
+com.powerschool.assignment.wrappers
